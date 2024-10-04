@@ -2,7 +2,7 @@
 
 <h3 align="center">⚠️🚨⚠️ This repository is developed on my <a href="https://forge.nick-slowinski.de/nick-slowinski.de/amp-templates">Forge</a> and only mirrored on <a href="https://github.com/NickSlowinski/amp-templates/">GitHub</a>! ⚠️🚨⚠️</h3>
 <h3 align="center">⚠️🚨⚠️ All interactions on GitHub are ignored - pull requests cannot be deactivated! ⚠️🚨⚠️</h3>
-<p align="center">English | <a href="./README.de.md">Deutsch</a></p>
+<p align="center">English | <a href="https://forge.nick-slowinski.de/nick-slowinski.de/amp-templates/src/branch/main/README.de.md">Deutsch</a></p>
 
 ## Setup
 
